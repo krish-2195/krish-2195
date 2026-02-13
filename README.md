@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working On<br>I'm developing an AI-Powered Personalized Learning & Doubt-Solving System as my final-year college project,  It tracks user performance, predicts exam readiness with ML regression, and generates personalized resource recommendations via hybrid content-collaborative filtering.<br>Looking to Collaborate On<br>I'm seeking collaborators for backend enhancements in AI projects and many more<br>Currently Learning<br>Deepening skills in NLP for regional language support, hybrid recommendation systems with embeddings, and Streamlit dashboards for project demos.
+Currently Working On<br>I'm developing an AI-Powered Personalized Learning & Doubt-Solving System as my personal project,  It tracks user performance, predicts exam readiness with ML regression, and generates personalized resource recommendations via hybrid content-collaborative filtering.<br>Looking to Collaborate On<br>I'm seeking collaborators for backend enhancements in AI projects and many more<br>Currently Learning<br>Deepening skills in NLP for regional language support, hybrid recommendation systems with embeddings, and Streamlit dashboards for project demos.
 
 
 ## 🌐 Socials:
