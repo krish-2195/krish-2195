@@ -221,14 +221,10 @@
 
 </div>
 
----
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer&text=Profile%20Views%3A&fontSize=14&fontColor=8b949e&fontAlignY=40&desc=&animation=fadeIn" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=krish-2195&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile Views" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
-
+<div align="center" style="margin-top:-18px;">
+<img src="https://komarev.com/ghpvc/?username=krish-2195&label=&color=58a6ff&style=for-the-badge" />
 </div>
