@@ -14,55 +14,23 @@
 
 ## 💫 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-class KrishPatel:
-    name       = "Krish Patel"
-    pronouns   = "he / him"
-    university = "Parul University · B.Tech CSE · Year 4"
-    focus      = [
-        "Machine Learning",
-        "NLP",
-        "Recommendation Systems",
-    ]
-    building   = (
-        "AI-Powered Personalized Learning"
-        " & Doubt-Solving System"
-    )
-    learning   = [
-        "NLP for regional languages",
-        "Hybrid embedding models",
-        "Streamlit dashboards",
-    ]
-    collab     = "Backend enhancements for AI projects"
-    contact    = "ptlkrish.19@gmail.com"
-    fun_fact   = (
-        "I find bugs faster at midnight"
-        " than any other time 🌙"
-    )
-```
+🎓 &nbsp;**4th Year B.Tech CSE** @ Parul University
 
-</td>
-<td width="45%" valign="top" align="center">
+🔭 &nbsp;Building an **AI-Powered Personalized Learning & Doubt-Solving System** — tracks performance, predicts exam readiness with ML regression, and serves hybrid recommendations
 
-### 📌 Quick Snapshot
+🌱 &nbsp;Currently deepening skills in **NLP for regional languages**, hybrid embedding models, and Streamlit dashboards
 
-| | |
-|---|---|
-| 🎓 | 4th Year CSE @ Parul University |
-| 🔭 | Building AI Learning System |
-| 🌱 | Learning NLP & Hybrid Embeddings |
-| 🤝 | Open to AI / Backend Collabs |
-| 💬 | Ask me about ML & Recommendation Systems |
-| 📫 | ptlkrish.19@gmail.com |
-| 🏆 | GitHub PRO |
+🤝 &nbsp;Looking to collaborate on **backend enhancements** in AI projects
 
-</td>
-</tr>
-</table>
+💬 &nbsp;Ask me about **Machine Learning · NLP · Recommendation Systems · FastAPI**
+
+📫 &nbsp;Reach me at **ptlkrish.19@gmail.com**
+
+⚡ &nbsp;Fun fact: I find bugs faster at **midnight** than any other time 🌙
+
+<br clear="right"/>
 
 ---
 
@@ -126,10 +94,10 @@ class KrishPatel:
 </td>
 <td width="50%" valign="top">
 
-### 🧑‍💼 InternFind
-> AI-powered internship recommendation platform matching students to opportunities via intelligent filtering.
+### 🧑‍💼 InternFind *(Fork)*
+> AI-powered internship recommendation platform — forked and extended with additional filtering and recommendation improvements.
 
-[![Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=white)](https://github.com/krish-2195/InternFind)
+[![Fork](https://img.shields.io/badge/Forked_Repo-58a6ff?style=flat-square&logo=github&logoColor=white)](https://github.com/krish-2195/InternFind)
 
 **Stack:** `Python` `Other`
 
@@ -145,10 +113,10 @@ class KrishPatel:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏢 ERP-Nexus
-> A comprehensive ERP system built for enterprise resource planning — contributed backend modules, API integrations, and database optimizations.
+> Enterprise resource planning system — contributed backend modules, API integrations, and database optimizations.
 
 [![Contributed](https://img.shields.io/badge/Contributor-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/AkshayChauhan3/ERP-Nexus)
 [![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=white)](https://github.com/AkshayChauhan3/ERP-Nexus)
@@ -156,15 +124,26 @@ class KrishPatel:
 **By:** [@AkshayChauhan3](https://github.com/AkshayChauhan3)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ✈️ Traveloop
-> A travel planning and itinerary management platform — contributed features, bug fixes, and improved platform functionality.
+> Travel planning and itinerary management platform — contributed features, bug fixes, and improved core functionality.
 
 [![Contributed](https://img.shields.io/badge/Contributor-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/AkshayChauhan3/traveloop)
 [![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=white)](https://github.com/AkshayChauhan3/traveloop)
 
 **By:** [@AkshayChauhan3](https://github.com/AkshayChauhan3)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧑‍💼 InternFind *(Original)*
+> Contributed to the original InternFind project before forking — added recommendation logic and filtering enhancements.
+
+[![Contributed](https://img.shields.io/badge/Contributor-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/KaranData303/InternFind)
+[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=white)](https://github.com/KaranData303/InternFind)
+
+**By:** [@KaranData303](https://github.com/KaranData303)
 
 </td>
 </tr>
@@ -226,7 +205,7 @@ class KrishPatel:
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=krish-2195&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=krish-2195&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 ---
@@ -246,7 +225,9 @@ class KrishPatel:
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=krish-2195&icon=6&color=1)
+<img src="https://komarev.com/ghpvc/?username=krish-2195&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile Views" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
 
