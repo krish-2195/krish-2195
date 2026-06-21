@@ -1,21 +1,188 @@
-# 💫 About Me:
-Currently Working On<br>I'm developing an AI-Powered Personalized Learning & Doubt-Solving System as my major minor project,  It tracks user performance, predicts exam readiness with ML regression, and generates personalized resource recommendations via hybrid content-collaborative filtering.<br>Looking to Collaborate On<br>I'm seeking collaborators for backend enhancements in AI projects and many more<br>Currently Learning<br>Deepening skills in NLP for regional language support, hybrid recommendation systems with embeddings, and Streamlit dashboards for project demos.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Krish%20Patel&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20CS%20Student&descSize=18&descColor=8b949e&descAlignY=60&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_ptl2195) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-patel-598410342) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ptlkrish.19@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krish-2195&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krish-2195&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krish-2195&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krish-2195&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krish-2195&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+learns+with+you+%F0%9F%A7%A0;ML+%7C+NLP+%7C+Recommendation+Systems;Open+to+collaborate+on+AI+%26+Backend;Third-year+CSE+@+Parul+University)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 💫 About Me
+
+```python
+krish = {
+    "name"        : "Krish Patel",
+    "pronouns"    : "he/him",
+    "university"  : "Parul University — B.Tech CSE (Year 3)",
+    "focus"       : ["Machine Learning", "NLP", "Recommendation Systems"],
+    "building"    : "AI-Powered Personalized Learning & Doubt-Solving System",
+    "learning"    : ["NLP for regional languages", "Hybrid Embeddings", "Streamlit Dashboards"],
+    "collab"      : "Backend enhancements for AI projects",
+    "reach_me"    : "ptlkrish.19@gmail.com",
+    "fun_fact"    : "I debug code better after a cup of chai ☕"
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 AI-Powered Learning System
+> ML-driven personalized learning platform with hybrid content-collaborative filtering, exam readiness prediction via regression, and adaptive resource recommendations.
+
+**Stack:** `Python` `FastAPI` `scikit-learn` `Streamlit` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 🚆 SmartRail-OS
+> Far Away Hackathon — Smart Train Occupancy & Crowd Intelligence Platform for real-time passenger analytics.
+
+**Stack:** `Python` `Django` `ML` `Power BI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📰 Fake News Deepfake Detection
+> AI-powered system to detect fake news and deepfake media with NLP and computer vision pipelines.
+
+**Stack:** `Python` `TypeScript` `NLP` `MIT License`
+
+</td>
+<td width="50%">
+
+### 💹 FinSignal-AI
+> Bloomberg-inspired AI financial sentiment trading platform with real-time signal generation.
+
+**Stack:** `TypeScript` `NLP` `FinML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Personal-AI-Ecosystem
+> Privacy-first AI assistant with agents, voice, 20+ integrations, ScaleDown compression — saves 15+ hrs/week.
+
+**Stack:** `Python` `MIT License`
+
+</td>
+<td width="50%">
+
+### 🧑‍💼 InternFind
+> AI-powered internship recommendation platform matching students to opportunities via intelligent filtering.
+
+**Stack:** `Python` `Other`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**ML / Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**DevOps & Other**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krish-2195&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-2195&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=krish-2195&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=krish-2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=krish-2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-patel-598410342)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/krish_ptl2195)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ptlkrish.19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krish-2195)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=krish-2195&icon=6&color=1)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+
+</div>
